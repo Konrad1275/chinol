@@ -21,129 +21,165 @@
 19. [Napoje](#napoje)
 ___
 ## Zupy
-Zupa PHO z kurczakiem  
-Zupa PHO z wołowiną  
-Zupa z makaronem sojowym i kurczakiem  
-Zupa z makaronem sojowym i wołowiną  
-Zupa krabowa  
-Zupa krewetkowa  
-Zupa PHO krewetkowa i Ha Cao  
-Zupa PHO tofu  
+|  |  |
+| :---| ---:|
+Zupa PHO z kurczakiem | 15zł            
+Zupa PHO z wołowiną  | 16zł
+Zupa z makaronem sojowym i kurczakiem  | 11zł
+Zupa z makaronem sojowym i wołowiną  | 12zł
+Zupa krabowa  | 11zł
+Zupa krewetkowa  | 11zł
+Zupa PHO krewetkowa i Ha Cao  | 23zł
+Zupa PHO tofu  | 15zł
 ## Sajgonki
-Sajgonki z surówką  
-Sajgonki z ryżem  
-Sajgonki z frytkami  
+|  |  |
+| :---| ---:|
+Sajgonki z surówką| 9zł  
+Sajgonki z ryżem|  11zł
+Sajgonki z frytkami| 14zł  
 ## Kurczak
-Kurczak z warzywami lub pikantny  
-Kurczak w 5-ciu smakach  
-Kurczak w sosie curry  
-Kurczak z grzybami MUN i bambusem  
-Kurczak w sosie słodko-kwaśnym  
-Kurczak w cieście  
-Kurczak w sosie pomarańczowym  
-Kurczak po Tajsku  
-Kurczak po tajsku bez sosu  
-Kurczak Hong Kong  
-Kurczak po chińsku  
-Kurczak Hanoi  
-Kurczak po królewsku  
-Kurczak na gorącym półmisku  
-Kurczak Gongbao  
+|  |  |
+| :---| ---:|
+Kurczak z warzywami lub pikantny | 16zł
+Kurczak w 5-ciu smakach  | 16 zł
+Kurczak w sosie curry  | 16zł
+Kurczak z grzybami MUN i bambusem  | 16zł
+Kurczak w sosie słodko-kwaśnym  | 16zł
+Kurczak w cieście  | 16zł
+Kurczak w sosie pomarańczowym  | 16zł
+Kurczak po Tajsku  | 18zł
+Kurczak po tajsku bez sosu  | 18zł
+Kurczak Hong Kong  | 17zł
+Kurczak po chińsku  | 17zł
+Kurczak Hanoi  | 17zł
+Kurczak po królewsku  | 25zł
+Kurczak na gorącym półmisku  | 25zł
+Kurczak Gongbao  | 19zł
 ### Indyk
-Indyk bez sosu  
-Indyk z warzywami i pieczarkami  
-Indyk w sosie maślano-czosnkowym  
-Indyk po tajsku  
-Indyk na gorącym półmisku  
+|  |  |
+| :---| ---:|
+Indyk bez sosu  | 17zł
+Indyk z warzywami i pieczarkami  | 18zł
+Indyk w sosie maślano-czosnkowym  | 17zł
+Indyk po tajsku  | 19zł
+Indyk na gorącym półmisku  | 25zł
 ### Wieprzowina
-Wieprzowina z warzywami  
-Wieprzowina w sosie curry  
-Wieprzowina z grzybami MUN i bambusem  
-Wieprzowina w sosie pikantynm  
-Wieprzowina w 5-ciu smakach  
-Wieprzowina po chińsku  
+|  |  |
+| :---| ---:|
+Wieprzowina z warzywami  | 16zł
+Wieprzowina w sosie curry  | 16zł
+Wieprzowina z grzybami MUN i bambusem  | 16zł
+Wieprzowina w sosie pikantynm  | 16zł
+Wieprzowina w 5-ciu smakach  | 16zł
+Wieprzowina po chińsku  | 16zł
 ### Golonka
-Golonka z pieczarkami  
-Golonka w sosie pikantnym  
-Golonka z grzybami MUN  
-Golonka po Wietnamsku  
-Schab po chińsku  
-Schab po tajsku  
+|  |  |
+| :---| ---:|
+Golonka z pieczarkami  | 16zł
+Golonka w sosie pikantnym  | 16zł
+Golonka z grzybami MUN  | 16zł
+Golonka po Wietnamsku  | 22zł
+Schab po chińsku  | 16zł
+Schab po tajsku  | 16zł
 ## Wołowina
-Wołowina z warzywami  
-Wołowina z grzybami MUN i bambusem  
-Wołowina w sosie pikantnym  
-Wołowina z sezamem  
-Wołowina w 5-ciu smakach  
-Wołowina na gorącym półmisku  
+|  |  |
+| :---| ---:|
+Wołowina z warzywami  | 19zł
+Wołowina z grzybami MUN i bambusem  | 19zł
+Wołowina w sosie pikantnym  | 19zł
+Wołowina z sezamem  | 25zł
+Wołowina w 5-ciu smakach  | 19zł
+Wołowina na gorącym półmisku  | 25zł
 ## Cielęcina
-Cielęcina z warzywami  
-Cielęcina w sosie pikantnym  
-Cielęcina w sosie curry  
-Cielęcina w 5-ciu smakach  
-Cielęcina z grzybami MUN i bambusem  
-Cielęcina z sezamem  
-Cielęcina na gorącym półmisku  
+|  |  |
+| :---| ---:|
+Cielęcina z warzywami  | 20zł
+Cielęcina w sosie pikantnym  | 20zł
+Cielęcina w sosie curry  | 20zł
+Cielęcina w 5-ciu smakach  | 20zł
+Cielęcina z grzybami MUN i bambusem  | 20zł
+Cielęcina z sezamem  | 25zł
+Cielęcina na gorącym półmisku  | 25zł
 ## Kaczka
-Kaczka w sosie pomarańczowym  
-Kaczka w sosie pikantnym  
-Kaczka z grzybami MUN  
-Kaczka z HONG KONG  
-Kaczka na gorącym półmisku  
+|  |  |
+| :---| ---:|
+Kaczka w sosie pomarańczowym  | 19zł
+Kaczka w sosie pikantnym  | 19zł
+Kaczka z grzybami MUN  | 19zł
+Kaczka z HONG KONG  | 19zł
+Kaczka na gorącym półmisku  | 25zł
 ## Ryba
-Ryba z warzywami  
-Ryba w sosie słodko-kwaśnym  
-Ryba w sosie czosnkowym  
-Ryba w 5-ciu smakach  
-Ryba po tajsku  
-Ryba na gorącym półmisku  
+|  |  |
+| :---| ---:|
+Ryba z warzywami  | 16zł
+Ryba w sosie słodko-kwaśnym  | 16zł
+Ryba w sosie czosnkowym  | 16zł
+Ryba w 5-ciu smakach  | 16zł
+Ryba po tajsku  | 17zł
+Ryba na gorącym półmisku  | 25zł
 ## Krewetki
-Krewetki z warzywami  
-Krewetki w sosie pikantnym  
-Krewetki z grzybami MUN  
-Krewetki w cieście  
-Krewetki po królewsku na gorącym półmisku  
+|  |  |
+| :---| ---:|
+Krewetki z warzywami  | 20zł
+Krewetki w sosie pikantnym  | 20zł
+Krewetki z grzybami MUN  | 20zł
+Krewetki w cieście  | 27zł
+Krewetki po królewsku na gorącym półmisku  | 30zł
 ## Rozmaitości moża
-Rozmaitości w sosie pikantnym  
-Rozmaitości z grzybami MUN  
+|  |  |
+| :---| ---:|
+Rozmaitości w sosie pikantnym  | 21zł
+Rozmaitości z grzybami MUN  | 21zł
 ## Dania Tradycyjne
-Kotlet z kurczaka z frytkami  
-Kotlet schabowy z frytkamki  
+|  |  |
+| :---| ---:|
+Kotlet z kurczaka z frytkami  | 17zł
+Kotlet schabowy z frytkamki  | 17zł
 ## Ryż smażony
-Ryż smażony z kurczakiem  
-Ryż smażony z wieprzowiną  
-Ryż smażony z wołowiną  
-Ryż smażony z krewetkami  
+Ryż smażony z kurczakiem  | 17zł
+Ryż smażony z wieprzowiną  | 17zł
+Ryż smażony z wołowiną  | 19zł
+Ryż smażony z krewetkami  | 22zł
 ## Makaron smażony
-Makaron sojowy/chiński/ryżowy z kurczakiem  
-Makaron sojowy/chiński/ryżowy z wieprzowiną  
-Makaron sojowy/chiński/ryżowy z wołowiną  
-Makaron sojowy/chiński/ryżowy z krewetkai  
+|  |  |
+| :---| ---:|
+Makaron sojowy/chiński/ryżowy z kurczakiem  | 18zł
+Makaron sojowy/chiński/ryżowy z wieprzowiną  | 18zł
+Makaron sojowy/chiński/ryżowy z wołowiną  | 20zł
+Makaron sojowy/chiński/ryżowy z krewetkai  | 22zł
 ## Dania wegetariańskie
-Ryż smażony z warzywami  
-Ryż smażony z tofu  
-Makaron sojowy/chiński/ryżowy z warzywami  
-Makaron sojowy/chiński/ryżowy z tofu  
-Tofu w sosie pikantnym/curry  
-Tofu w sosie pomidorowym  
-Frytki z jajkiem  
+|  |  |
+| :---| ---:|
+Ryż smażony z warzywami  | 14zł
+Ryż smażony z tofu  | 15zł
+Makaron sojowy/chiński/ryżowy z warzywami  | 15zł
+Makaron sojowy/chiński/ryżowy z tofu  | 17zł
+Tofu w sosie pikantnym/curry  | 15zł
+Tofu w sosie pomidorowym  | 15zł
+Frytki z jajkiem  | 13ł
 ## Dania tajskie
-Pad Thai/Udon z kurczakiem  
-Pad Thai/Udon z wołowiną  
-Pad Thai/Udon z krewetkami  
-Pad Thai/Udon z tofu  
-Zielone/Czerwone curry z kurczakiem  
-Zielone/Czerwone curry z wołowiną  
-Zielone/Czerwone curry z krewetkami  
-Zielone/Czerwone curry z tofu  
+|  |  |
+| :---| ---:|
+Pad Thai/Udon z kurczakiem  | 19zł
+Pad Thai/Udon z wołowiną  | 22zł
+Pad Thai/Udon z krewetkami  | 23zł
+Pad Thai/Udon z tofu  | 17zł
+Zielone/Czerwone curry z kurczakiem  | 21zł
+Zielone/Czerwone curry z wołowiną  | 22zł
+Zielone/Czerwone curry z krewetkami  | 30zł
+Zielone/Czerwone curry z tofu  | 19zł
 ## Dodtaki
-Ryż biały  
-Ryż smażony  
-Makaron sojowy  
-Frytki  
+|  |  |
+| :---| ---:|
+Ryż biały  | 2zł
+Ryż smażony  | 6zł
+Makaron sojowy  | 6zł
+Frytki  | 7zł
 ## Napoje
-Pepsi, 7up, icetea, tonic, mirinda (0,5l)  
-Woda 0,5l, sok (0,33l) Pepsi puszka 0,33l  
-Kawa lub Herbata  
-Pałęczki  
-Pudełko na wynos  
+|  |  |
+| :---| ---:|
+Pepsi, 7up, icetea, tonic, mirinda (0,5l)  | 6zł
+Woda 0,5l, sok (0,33l) Pepsi puszka 0,33l  | 5zł
+Kawa lub Herbata  | 3zł
+Pałęczki  | 1zł
+Pudełko na wynos  | 1zł
